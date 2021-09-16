@@ -533,6 +533,7 @@ body.light-content .main-input {
    border-radius: 5px;
    color: #fff !important;
    background-color: var(--btn);
+   transition: background 0.4s ease;
 }
 
 .news-btn:hover {
